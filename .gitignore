@@ -43,3 +43,8 @@ out/
 ### properties ###
 /src/main/resources/application.properties
 src/main/resources/application.properties
+
+### Environment variables ###
+.env
+.env.*
+!.env.example
